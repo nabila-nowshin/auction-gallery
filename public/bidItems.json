@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Rolex Watch",
+      "description": "A classic 1960s Rolex watch with original packaging and documentation.",
+      "currentBidPrice": 2500.00,
+      "timeLeft": "12h 30m",
+      "bidsCount": 5,
+      "image": "https://i.ibb.co.com/tpqbqnwJ/bid1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Limited Edition Sneakers",
+      "description": "Rare limited edition sneakers, only 50 pairs were ever made.",
+      "currentBidPrice": 1200.00,
+      "timeLeft": "2d 3h",
+      "bidsCount": 18,
+      "image": "https://i.ibb.co.com/RpCyJ0Dr/bid2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Vintage Guitar",
+      "description": "A vintage electric guitar, pre-owned by a famous rock musician.",
+      "currentBidPrice": 3500.00,
+      "timeLeft": "3d 10h",
+      "bidsCount": 9,
+      "image": "https://i.ibb.co.com/FL2GbCrR/bid3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Antique Vase",
+      "description": "A delicate porcelain vase from the Ming Dynasty.",
+      "currentBidPrice": 2200.00,
+      "timeLeft": "6d 4h",
+      "bidsCount": 4,
+      "image": "https://i.ibb.co.com/gb0vhPyN/bid4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Exclusive Artwork",
+      "description": "An original painting by a contemporary artist, one of a kind.",
+      "currentBidPrice": 5000.00,
+      "timeLeft": "4d 12h",
+      "bidsCount": 20,
+      "image": "https://i.ibb.co.com/1YLfPKnR/bid5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Luxury Watch Set",
+      "description": "A set of three luxury watches, including a limited edition timepiece.",
+      "currentBidPrice": 8000.00,
+      "timeLeft": "2d 5h",
+      "bidsCount": 11,
+      "image": "https://i.ibb.co.com/RTnM60VX/bid6.jpg"
+    }
+  ]
+  
