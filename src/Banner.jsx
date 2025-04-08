@@ -3,23 +3,23 @@ import React from 'react';
 const Banner = () => {
     return (
         <div>
-            <div
-  className="hero min-h-screen"
-  style={{
-    backgroundImage: "url(https://img.daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.webp)",
-  }}>
-  <div className="hero-overlay"></div>
-  <div className="hero-content text-neutral-content text-center">
-    <div className="max-w-md">
-      <h1 className="mb-5 text-5xl font-bold">Hello there</h1>
-      <p className="mb-5">
-        Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-        quasi. In deleniti eaque aut repudiandae et a id nisi.
-      </p>
-      <button className="btn btn-primary">Get Started</button>
-    </div>
-  </div>
-</div>
+           <div
+                className="hero h-[800px] p-0 bg-cover bg-center flex
+                "
+                style={{
+                    backgroundImage: "url('Banner-min.jpg')",
+                }}
+                >
+                <div className="text-white text-left ml-0 w-[40%] pl-[05%]">
+                    <h1 className="text-5xl font-bold">Bid on Unique Items from Around the World</h1>
+                    <p className="py-6 text-2xl font-light">
+                    Discover rare collectibles, luxury goods, and vintage treasures in our curated auctions
+                    </p>
+                    <button className="btn bg-white text-black rounded-4xl text-xl p-5">Explore Auctions</button>
+                </div>
+            </div>
+
+
   
         </div>
     );
