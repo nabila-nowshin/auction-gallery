@@ -4,8 +4,7 @@ const Banner = () => {
     return (
         <div>
            <div
-                className="hero h-[800px] p-0 bg-cover bg-center flex
-                "
+                className="hero h-[800px] p-0 bg-cover bg-center flex"
                 style={{
                     backgroundImage: "url('Banner-min.jpg')",
                 }}
