@@ -4,10 +4,7 @@ import { faHeart } from '@fortawesome/free-regular-svg-icons';
 import { faHeart as faHeartSolid } from '@fortawesome/free-solid-svg-icons';
 
 const BidItem = ({item,addToFavorite,fav}) => {
-
-
     const heartButtonHandler=()=>{
-
         if(fav!==true){
             addToFavorite(item);
         }
