@@ -1,12 +1,31 @@
-# React + Vite
+# 🏷️ Auction Gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, interactive auction platform built with **React.js**, where users can discover amazing items, add them to their favorites, and track their total bidding amount — all in real time with a smooth and responsive UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 💖 Add/remove items from **Favorites**
+- 📈 Automatically updates **Total Bid Amount**
+- 🔔 Real-time feedback using **React Toastify**
+- ⚛️ Component-based structure with **state lifting**
+- 🎨 Styled with **Tailwind CSS** and **FontAwesome icons**
+- 🔐 Prevents duplicate favorites with disabled heart icon
+- 📦 Clean and readable code for easy maintenance
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🔗 Live Demo
+
+[Click here to view the app](https://auction-board.netlify.app)
+
+---
+
+## 🧪 Tech Stack
+
+- **React.js**
+- **Tailwind CSS**
+- **DaisyUI**
+- **React Toastify**
+- **FontAwesome**
