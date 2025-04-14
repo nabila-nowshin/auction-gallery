@@ -18,6 +18,8 @@ function App() {
       </Suspense>
       <Footer></Footer>
     </div>
+
+    
     
     
   )
